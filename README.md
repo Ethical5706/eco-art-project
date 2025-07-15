@@ -5,3 +5,11 @@ for class
 ### The Smallest Title
 *How Nice!*
 **How Bold!**
+- stereo madness
+- back on track
+- polargeist
+- dry out
+1. base after base
+2. cant let go
+3. jumper
+4. time machine
