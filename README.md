@@ -15,4 +15,7 @@ for class
 4. time machine
 ![Eternal Return God Game](2nd_Anniversary_WallPaper.jpg)
 [asdf](https://namu.wiki/)
-'print("Hello!")'
+[ai?](https://novelai.net/)
+
+
+\'print("Hello!")'
