@@ -14,3 +14,5 @@ for class
 3. jumper
 4. time machine
 ![Eternal Return God Game](2nd_Anniversary_WallPaper.jpg)
+[asdf](https://namu.wiki/)
+'print("Hello!")'
