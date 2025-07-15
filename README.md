@@ -18,4 +18,4 @@ for class
 [ai?](https://novelai.net/)
 
 
-\'print("Hello!")'
+`rint("Hello!")`
